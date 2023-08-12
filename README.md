@@ -1,5 +1,5 @@
 
-# nanoGPT
+# nanoGPT by yjf
 
 ![nanoGPT](assets/nanogpt.jpg)
 
@@ -70,7 +70,7 @@ That I leave, to fight with over-liking
 Hasting in a roseman.
 ```
 
-lol  `¯\_(ツ)_/¯`. Not bad for a character-level model after 3 minutes of training on a GPU. Better results are quite likely obtainable by instead finetuning a pretrained GPT-2 model on this dataset (see finetuning section later).
+lol  `炉\_(銉�)_/炉`. Not bad for a character-level model after 3 minutes of training on a GPU. Better results are quite likely obtainable by instead finetuning a pretrained GPT-2 model on this dataset (see finetuning section later).
 
 **I only have a macbook** (or other cheap computer). No worries, we can still train a GPT but we want to dial things down a notch. I recommend getting the bleeding edge PyTorch nightly ([select it here](https://pytorch.org/get-started/locally/) when installing) as it is currently quite likely to make your code more efficient. But even without it, a simple train run could look as follows:
 
