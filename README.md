@@ -1,5 +1,5 @@
-
-# nanoGPT by yjf
+# forked by yjf 2023
+# nanoGPT
 
 ![nanoGPT](assets/nanogpt.jpg)
 
